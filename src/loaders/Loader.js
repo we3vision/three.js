@@ -54,6 +54,7 @@ class Loader {
 	setResourcePath( resourcePath ) {
 
 		this.resourcePath = resourcePath;
+		
 		return this;
 
 	}
